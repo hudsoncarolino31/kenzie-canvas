@@ -2,7 +2,7 @@
   "name": "kenzie-canvas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ednoguera.github.io/kenzie-canvas/",
+  "homepage": "https://hudsoncarolino31.github.io/kenzie-canvas/",
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "@testing-library/jest-dom": "^5.11.4",
